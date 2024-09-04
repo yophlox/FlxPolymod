@@ -5,4 +5,4 @@
 * Made cuz nobody else made one lol!
 
 
-* code taken from multiple placez lel
+* 90% of the code is by Joalor64GH

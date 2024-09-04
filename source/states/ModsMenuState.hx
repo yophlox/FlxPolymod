@@ -77,7 +77,6 @@ class ModsMenuState extends FlxState {
 			changeSelection(up ? -1 : 1);
 
 		if (exit) {
-			FlxG.sound.play(Paths.sound('cancel'));
 			Modding.reload();
 			FlxG.switchState(new PlayState());
 		} else if (accept) {

@@ -4,5 +4,8 @@
 
 * Made cuz nobody else made one lol!
 
+# Credits
 
-* 90% of the code is by Joalor64GH
+* YoPhlox (me!) - Template
+
+* Joalor64GH - Basically all the code
